@@ -1,14 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
-<title id="title">Hey, I'm Heavenfiend — Android Developer</title>
-<desc id="desc">A dark developer banner with purple lines and a neon green accent.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#191226"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#c084fc"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".06"/></pattern></defs>
-<rect width="960" height="280" rx="20" fill="url(#bg)"/><rect width="960" height="280" rx="20" fill="url(#grid)"/>
-<path d="M670 0v55l75 75h215M790 0v40l80 80h90M750 280v-50l90-90h120" fill="none" stroke="#a78bfa" stroke-opacity=".23" stroke-width="2"/>
-<circle cx="745" cy="130" r="5" fill="#a78bfa"/><circle cx="840" cy="140" r="5" fill="#a3e635"/>
-<rect x="42" y="43" width="5" height="20" rx="2" fill="#a3e635"/>
-<text x="61" y="59" fill="#c4b5fd" font-family="ui-monospace,Consolas,monospace" font-size="16" letter-spacing="3">HELLO, WORLD.</text>
-<text x="42" y="130" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">I'm Heavenfiend<tspan fill="#a3e635">.</tspan></text>
-<text x="44" y="177" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="600">Android Developer</text>
-<path d="M44 208h280" stroke="#a78bfa" stroke-opacity=".4"/>
-<text x="44" y="241" fill="#a7afc0" font-family="ui-monospace,Consolas,monospace" font-size="16">KOTLIN / COMPOSE / CONTINUOUS LEARNING</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title"><title id="title">Heavenfiend — Android Developer</title><defs><linearGradient id="bg" x2="1" y2=".8"><stop stop-color="#10101b"/><stop offset="1" stop-color="#181128"/></linearGradient><radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".3"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient><linearGradient id="violet"><stop stop-color="#d8caff"/><stop offset=".55" stop-color="#ac88ff"/><stop offset="1" stop-color="#7c4ee9"/></linearGradient><linearGradient id="edge" x2=".9" y2=".8"><stop stop-color="#b69aff"/><stop offset=".55" stop-color="#4b356e"/><stop offset="1" stop-color="#a3e635"/></linearGradient></defs><rect x="1" y="1" width="1198" height="428" rx="26" fill="url(#bg)" stroke="#312541"/><ellipse cx="950" cy="170" rx="360" ry="330" fill="url(#glow)"/>
+<path d="M770 1v82l80 80M1199 327h-76l-88 102" fill="none" stroke="#8860b8" stroke-opacity=".22"/><path d="M48 47h28" stroke="#b5ed76" stroke-width="3" stroke-linecap="round"/>
+<text x="90" y="52" fill="#b4a8c6" font-family="Consolas, monospace" font-size="15" letter-spacing="3">ANDROID / KOTLIN</text>
+<text x="48" y="176" fill="#f6f2ff" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="750" letter-spacing="-4">Heavenfiend<tspan fill="#b5ed76">.</tspan></text>
+<text x="53" y="235" fill="#c5a8ff" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="600">Android Developer</text>
+<text x="54" y="292" fill="#aaa0ba" font-family="Segoe UI, Arial, sans-serif" font-size="22">Building Android apps. Studying software engineering.</text>
+<path d="M54 333h679" stroke="#3d2c51"/><text x="54" y="376" fill="#c2b6d3" font-family="Consolas, monospace" font-size="16">Kotlin <tspan fill="#70518f"> / </tspan> Jetpack Compose <tspan fill="#70518f"> / </tspan> Continuous Learning</text><g transform="translate(887 40) rotate(8 115 170)">
+<rect x="0" y="0" width="230" height="344" rx="34" fill="#0c0c16" stroke="url(#edge)" stroke-width="2"/>
+<rect x="10" y="10" width="210" height="324" rx="27" fill="#151222"/><rect x="86" y="18" width="58" height="5" rx="3" fill="#383044"/>
+<rect x="28" y="48" width="62" height="7" rx="3" fill="#9f8ab8"/><rect x="28" y="69" width="122" height="15" rx="4" fill="#e0d4f7"/>
+<rect x="28" y="103" width="174" height="96" rx="16" fill="#241a39" stroke="#3e2a5a"/>
+<path d="M44 176l24-18 20 8 25-32 23 14 25-25 23 5" fill="none" stroke="#b79aff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="161" cy="123" r="5" fill="#b5ed76"/>
+<rect x="28" y="216" width="78" height="56" rx="12" fill="#2d2043"/><rect x="119" y="216" width="83" height="56" rx="12" fill="#1e2a20"/>
+<rect x="42" y="230" width="25" height="6" rx="3" fill="#bba2e5"/><rect x="42" y="247" width="44" height="9" rx="3" fill="#ede8f5"/>
+<rect x="133" y="230" width="25" height="6" rx="3" fill="#94b67b"/><rect x="133" y="247" width="44" height="9" rx="3" fill="#c8f49c"/>
+<rect x="63" y="298" width="104" height="5" rx="3" fill="#453651"/>
+</g></svg>

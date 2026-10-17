@@ -1,68 +1,107 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Hey, I'm Heavenfiend — Android Developer" width="960">
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
+  <img src="./assets/header.svg" alt="Heavenfiend — Android Developer. Kotlin and Jetpack Compose." width="1200">
+</picture>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1400&amp;color=A3E635&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=45&amp;lines=Building+Android+apps.;Learning+by+building.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1400&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=45&amp;lines=Building+Android+apps.;Learning+by+building." alt="Building Android apps. Learning by building." width="360" height="45">
-  </picture>
+  <a href="#tech-stack">Tech Stack</a> &nbsp; / &nbsp;
+  <a href="#featured-projects">Featured Projects</a> &nbsp; / &nbsp;
+  <a href="#university-projects">Coursework</a>
 </p>
 
-<p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#development">Development</a> ·
-  <a href="#university-projects">University</a>
-</p>
-
-## About Me
-
-Android Developer focused on Kotlin and Jetpack Compose. I build Android apps and explore algorithms, systems programming, and computer graphics through hands-on projects.
+I build Android apps with **Kotlin** and **Jetpack Compose**, alongside hands-on work in algorithms, systems programming and computer graphics.
 
 ## Tech Stack
 
-<p>
-  <img src="./assets/stack.svg" alt="Kotlin, Android Studio, Gradle, C++, C#, Git" width="300">
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/stack-android-mobile.svg">
+  <img src="./assets/stack-android.svg" alt="Android: Android, Kotlin and Jetpack Compose. Also using Room, Retrofit and Koin." width="1200">
+</picture>
 
-**Android:** Kotlin · Jetpack Compose · Android Studio · Gradle  
-**Also working with:** C · C++ · C# · Vulkan
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/stack-languages-mobile.svg">
+  <img src="./assets/stack-languages.svg" alt="Languages beyond mobile: C, C++ and C#. Algorithms, systems and graphics." width="1200">
+</picture>
 
-## Development
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/stack-tools-mobile.svg">
+  <img src="./assets/stack-tools.svg" alt="Tools: Android Studio, Gradle, Git and CMake." width="1200">
+</picture>
 
-**[Predicta](https://github.com/Heavenfiend/Predicta)**  
-Android app with dashboards, employee management, and analytics.  
-`Kotlin` `Jetpack Compose` `Room` `Retrofit` `Koin`
+## Featured Projects
 
-**[DBMS](https://github.com/Heavenfiend/DBMS)**  
-A SQL database management system written in C++, with client and server components.
+<a href="https://github.com/Heavenfiend/Predicta">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-predicta-mobile.svg">
+  <img src="./assets/project-predicta.svg" alt="Predicta — Android dashboards, employee management and analytics. Kotlin, Compose, Room, Retrofit and Koin. Open repository." width="1200">
+</picture>
+</a>
+
+<a href="https://github.com/Heavenfiend/DBMS">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-dbms-mobile.svg">
+  <img src="./assets/project-dbms.svg" alt="DBMS — a C++ SQL database with parser, storage engine and client/server components. Open repository." width="1200">
+</picture>
+</a>
+
+<a href="https://github.com/Heavenfiend/computer-graphics">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/project-graphics-mobile.svg">
+  <img src="./assets/project-graphics.svg" alt="Computer Graphics — a regular dodecahedron renderer built with C++ and Vulkan. Open repository." width="1200">
+</picture>
+</a>
 
 <details>
-<summary>Android practice</summary>
+<summary><b>More Android practice</b> — Compose &amp; networking</summary>
 
-- [vkhomework2](https://github.com/Heavenfiend/vkhomework2) — GIF browsing with Compose and Retrofit.
-- [vk_homework1](https://github.com/Heavenfiend/vk_homework1) — Android / Compose practice.
+- **[vkhomework2](https://github.com/Heavenfiend/vkhomework2)** — GIF browsing with Compose and Retrofit.
+- **[vk_homework1](https://github.com/Heavenfiend/vk_homework1)** — Android / Compose practice.
 
 </details>
 
 ## University Projects
 
-Selected labs, grouped by subject.
-
-| Area | Project |
-| :--- | :--- |
-| Cryptography | [Cryptography](https://github.com/Heavenfiend/Cryptography) — Kotlin, Feistel networks, DES & DEAL |
-| Computer graphics | [computer-graphics](https://github.com/Heavenfiend/computer-graphics) — C++ / Vulkan, a dodecahedron renderer |
+Coursework organized by subject. Open a collection to explore the repositories.
 
 <details>
-<summary>More coursework &amp; lab collections</summary>
+<summary><b>Cryptography &amp; Graphics</b> — Kotlin · C++ · Vulkan</summary>
 
-- **C++ / OOP:** [OOP](https://github.com/Heavenfiend/OOP) · [OOP2](https://github.com/Heavenfiend/OOP2) · [OOP3](https://github.com/Heavenfiend/OOP3) · [OOP4](https://github.com/Heavenfiend/OOP4) · [OOP5](https://github.com/Heavenfiend/OOP5) · [OOP6](https://github.com/Heavenfiend/OOP6) · [OOP7](https://github.com/Heavenfiend/OOP7)
-- **C / systems labs:** [OS_2025](https://github.com/Heavenfiend/OS_2025) · [OS2](https://github.com/Heavenfiend/OS2) · [OS3](https://github.com/Heavenfiend/OS3)
-- **C# / algorithms:** [FIIT_FA](https://github.com/Heavenfiend/FIIT_FA) — trees and big integer arithmetic.
-- **C++ / lab collection:** [FIIT_SP](https://github.com/Heavenfiend/FIIT_SP) — allocators and associative containers.
+- **[Cryptography](https://github.com/Heavenfiend/Cryptography)** — Feistel networks, DES and DEAL implemented in Kotlin.
+- **[Computer Graphics](https://github.com/Heavenfiend/computer-graphics)** — C++ / Vulkan graphics labs.
 
 </details>
 
-<!-- Add year-based groups only after the academic year of each repository is confirmed. -->
+<details>
+<summary><b>Algorithms &amp; Data Structures</b> — C# · C++</summary>
+
+- **[FIIT_FA](https://github.com/Heavenfiend/FIIT_FA)** — trees and big integer arithmetic in C#.
+- **[FIIT_SP](https://github.com/Heavenfiend/FIIT_SP)** — C++ allocators and associative containers.
+
+</details>
+
+<details>
+<summary><b>Systems Programming</b> — C</summary>
+
+[OS_2025](https://github.com/Heavenfiend/OS_2025) &nbsp; / &nbsp; [OS2](https://github.com/Heavenfiend/OS2) &nbsp; / &nbsp; [OS3](https://github.com/Heavenfiend/OS3)
+
+C labs covering processes, pipes and related systems programming exercises.
+
+</details>
+
+<details>
+<summary><b>Object-Oriented Programming</b> — C++</summary>
+
+[OOP](https://github.com/Heavenfiend/OOP) &nbsp; / &nbsp; [OOP2](https://github.com/Heavenfiend/OOP2) &nbsp; / &nbsp; [OOP3](https://github.com/Heavenfiend/OOP3) &nbsp; / &nbsp; [OOP4](https://github.com/Heavenfiend/OOP4) &nbsp; / &nbsp; [OOP5](https://github.com/Heavenfiend/OOP5) &nbsp; / &nbsp; [OOP6](https://github.com/Heavenfiend/OOP6) &nbsp; / &nbsp; [OOP7](https://github.com/Heavenfiend/OOP7)
+
+C++ exercises and lab collections.
+
+</details>
+
+<!-- Group titles describe repository content, not official course names.
+     Add degree-year groups only after the mapping is confirmed. -->
+
+---
+
+<p align="center">
+  <a href="https://github.com/Heavenfiend?tab=repositories">Explore all public repositories ↗</a>
+</p>

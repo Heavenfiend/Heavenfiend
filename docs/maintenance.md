@@ -2,14 +2,29 @@
 
 This repository contains the public profile README for [Heavenfiend](https://github.com/Heavenfiend).
 
+## Redesign (2026-10-18)
+
+The second version replaces the original banner, small icon strip and plain project paragraphs with a coordinated SVG system. The palette is charcoal, violet and lime. There are no stats widgets, animated GIFs, workflows or runtime image services.
+
+### Layout
+
+- Hero: large name, Android role, a conceptual mobile dashboard illustration, and short context. The illustration is decorative, not a product screenshot.
+- Stack: three broad panels for Android, other languages and tools. Room, Retrofit and Koin are written as library names, not claimed levels of proficiency.
+- Featured: three full-width linked cards for Predicta, DBMS and Computer Graphics. Illustrations represent project domains and are not screenshots. Descriptions are grounded in README/build files/source trees.
+- Coursework: four native collapsed subject collections. They describe repository content, not official university course names. Degree years remain unassigned.
+- Navigation: three section anchors near the top and one repository-index link at the bottom.
+
+All major SVGs have a separate narrow-screen composition selected with `picture` at 600 px. This avoids shrinking the desktop layout into unreadable miniature cards. Images use GitHub's normal responsive sizing. Titles and alternative text preserve the meaning of each linked image. SVG panels keep their own dark background in both GitHub themes; surrounding text follows GitHub's theme.
+
 ## Files and dependencies
 
-- `README.md`: short introduction, development projects, and a university index.
-- `assets/header.svg`: original static banner. Its dark background is part of the image; README page colors follow GitHub's theme.
-- `assets/stack.svg`: static Skill Icons snapshot, fetched 2026-10-18. No runtime request to Skill Icons is needed.
-- Typing line: [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), hosted at `readme-typing-svg.demolab.com`. The light/dark variants use `picture`; text alternatives and the static banner preserve the introduction when the service is unavailable. GitHub caches external images, so updates may take time.
-- Icons: [Skill Icons](https://github.com/tandpfun/skill-icons), MIT. See [third-party license](../LICENSES/skill-icons-MIT.txt).
-- No workflows, secrets, packages, or scheduled jobs are needed.
+- `README.md`: short introduction, section navigation, cards and subject collections.
+- `assets/header.svg` and `assets/header-mobile.svg`: original hero artwork.
+- `assets/stack-{android,languages,tools}.svg` and matching `-mobile.svg` variants: labeled technology panels.
+- `assets/project-{predicta,dbms,graphics}.svg` and matching `-mobile.svg` variants: clickable project cards.
+- Icons are embedded snapshots from [Devicon](https://github.com/devicons/devicon), retrieved 2026-10-18, with the [MIT notice](../LICENSES/devicon-MIT.txt). No remote image requests are needed.
+- The previous standalone Typing SVG and old Skill Icons strip are retired. The hero carries the introduction without a separate animation row.
+- There are no package installs, Actions workflows, tokens, secrets or scheduled jobs in this profile repository.
 
 ## Verified public inventory (2026-10-18)
 
@@ -28,11 +43,11 @@ The authenticated repository list contained 25 owned repositories, 18 public. Pr
 | FIIT_FA | readme.md labels laboratory work; trees and big integer arithmetic in C# | Algorithms labs; formal course/year unconfirmed |
 | FIIT_SP | README labels laboratory work; C++ allocator/container tree | C++ labs; formal course/year unconfirmed |
 
-All 18 public repositories had empty Topics at inspection. Null repository descriptions are not treated as evidence. The language reported by GitHub for DBMS was null; C++ is confirmed by its README and sources. Do not infer a degree year from dates, group numbers, or repository suffixes. Linked repositories may contain starter or collaborative work; links do not assert sole authorship.
+All 18 public repositories had empty Topics at inspection. Null repository descriptions are not treated as evidence. The primary-language field for DBMS was initially null; its full languages endpoint and C++ source tree confirm C++. Do not infer a degree year from dates, group numbers, or repository suffixes. Linked repositories may contain starter or collaborative work; links do not assert sole authorship.
 
 ## Organization strategy
 
-1. Keep the Profile README as the navigation hub. Use normal text/list links and a small two-column table; avoid fixed-width project grids.
+1. Keep the Profile README as the navigation hub. Use linked responsive project cards and normal text links inside collapsed collections; avoid fixed-width project grids.
 2. Use native `details` sections for longer collections. Add **1st Year / 2nd Year / 3rd Year** only after the owner confirms the mapping; keep unknown items in an unassigned collection.
 3. Later, add a small consistent vocabulary of Topics to confirmed repositories: `android`, `kotlin`, `jetpack-compose`, `university`, `coursework`, plus a verified subject and optional `year-1`, `year-2`, `year-3`. Topics are labels for search, not nested folders. No topics were changed for this MVP.
 4. Recommend pinning Predicta, Cryptography, computer-graphics and DBMS. GitHub allows six repositories/gists combined; pins are a showcase, not a category tree. Pins were not changed.
@@ -44,7 +59,7 @@ All 18 public repositories had empty Topics at inspection. Null repository descr
 | Improvement | Benefit | Limits / maintenance |
 | --- | --- | --- |
 | Confirmed year groups + selected Topics | Easier navigation and search | Low; requires an accurate course mapping |
-| Custom static project cards | Clearer project identity and screenshots | Low to medium; update images and alt text when projects change |
+| Real project screenshots | Show what the applications actually look like | Low to medium; use owner-reviewed screenshots without private data |
 | Contribution Snake | Small animated accent | Medium; scheduled Action and maintained third-party action, preferably pinned by commit |
 | One GitHub Stats card OR Activity Graph | At-a-glance public activity | Medium; external service reliability, caching and imperfect interpretation of activity |
 | Automatic public project catalog | Reduces manual catalog work as the account grows | Medium to high; API pagination, visibility filtering, reviewed metadata and least-privilege workflow |
