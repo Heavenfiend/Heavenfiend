@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">Hey, I'm Heavenfiend — Android Developer</title>
+<desc id="desc">A dark developer banner with purple lines and a neon green accent.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#191226"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#c084fc"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".06"/></pattern></defs>
+<rect width="960" height="280" rx="20" fill="url(#bg)"/><rect width="960" height="280" rx="20" fill="url(#grid)"/>
+<path d="M670 0v55l75 75h215M790 0v40l80 80h90M750 280v-50l90-90h120" fill="none" stroke="#a78bfa" stroke-opacity=".23" stroke-width="2"/>
+<circle cx="745" cy="130" r="5" fill="#a78bfa"/><circle cx="840" cy="140" r="5" fill="#a3e635"/>
+<rect x="42" y="43" width="5" height="20" rx="2" fill="#a3e635"/>
+<text x="61" y="59" fill="#c4b5fd" font-family="ui-monospace,Consolas,monospace" font-size="16" letter-spacing="3">HELLO, WORLD.</text>
+<text x="42" y="130" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">I'm Heavenfiend<tspan fill="#a3e635">.</tspan></text>
+<text x="44" y="177" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="600">Android Developer</text>
+<path d="M44 208h280" stroke="#a78bfa" stroke-opacity=".4"/>
+<text x="44" y="241" fill="#a7afc0" font-family="ui-monospace,Consolas,monospace" font-size="16">KOTLIN / COMPOSE / CONTINUOUS LEARNING</text>
+</svg>
