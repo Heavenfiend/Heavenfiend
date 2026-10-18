@@ -3,6 +3,12 @@
   <img alt="Snake eating Heavenfiend's GitHub contributions" src="https://raw.githubusercontent.com/Heavenfiend/Heavenfiend/output/github-snake.svg">
 </picture>
 
+<br>
+
+---
+
+<br>
+
 <p align="center">
   <img src="./assets/badges/kotlin.svg" alt="Kotlin" title="Kotlin" width="81" height="26">
   <img src="./assets/badges/compose.svg" alt="Jetpack Compose" title="Jetpack Compose" width="157" height="26">
