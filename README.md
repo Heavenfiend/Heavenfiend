@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heavenfiend/Heavenfiend/output/github-snake-dark.svg">
-  <img alt="Snake eating Heavenfiend's GitHub contributions" src="https://raw.githubusercontent.com/Heavenfiend/Heavenfiend/output/github-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario pixel-art animation" width="1200">
+</p>
 
 <br>
 
@@ -45,17 +44,9 @@
 
 ---
 
-### Mario
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario pixel-art animation" width="600">
-</p>
-
----
-
-### 3D Contributions
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Heavenfiend's GitHub contributions in 3D" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heavenfiend/Heavenfiend/output/github-snake-dark.svg">
+  <img alt="Snake eating Heavenfiend's GitHub contributions" src="https://raw.githubusercontent.com/Heavenfiend/Heavenfiend/output/github-snake.svg">
 </picture>
