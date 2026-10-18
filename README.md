@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://devlotfi.github.io/stack-icons/icons/kotlin.svg" alt="Kotlin" title="Kotlin" height="64">
   <img src="https://devlotfi.github.io/stack-icons/icons/jetpack-compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="64">
-  <img src="https://devlotfi.github.io/stack-icons/icons/c.svg" alt="C" title="C" height="64">
-  <img src="https://devlotfi.github.io/stack-icons/icons/cpp.svg" alt="C++" title="C++" height="64">
-  <img src="https://devlotfi.github.io/stack-icons/icons/cs.svg" alt="C#" title="C#" height="64">
   <img src="https://devlotfi.github.io/stack-icons/icons/git.svg" alt="Git" title="Git" height="64">
 </p>
 
