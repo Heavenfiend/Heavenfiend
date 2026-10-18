@@ -31,4 +31,6 @@
   <img src="./assets/badges/python.svg" alt="Python" title="Python" width="82" height="26">
   <img src="./assets/badges/numpy.svg" alt="NumPy" title="NumPy" width="74" height="26">
   <img src="./assets/badges/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="111" height="26">
+  <img src="./assets/badges/vulkan.svg" alt="Vulkan" title="Vulkan" width="89" height="26">
+  <img src="./assets/badges/data-structures.svg" alt="Data Structures" title="Data Structures" width="145" height="26">
 </p>
