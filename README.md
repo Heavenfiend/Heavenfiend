@@ -1,12 +1,10 @@
 <h1 align="center">Android Developer</h1>
 
-<p align="center">
+<h3 align="center">
   <a href="https://t.me/Heavenfiend" title="Telegram: @Heavenfiend">
-    <img src="./assets/badges/telegram.svg" alt="Contact Heavenfiend on Telegram" width="165" height="45">
+    <img src="./assets/badges/telegram.svg" alt="Contact Heavenfiend on Telegram" width="165" height="45" align="middle">
   </a>
-</p>
-
-<br>
+</h3>
 
 ---
 
