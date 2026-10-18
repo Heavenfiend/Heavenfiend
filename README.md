@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/tarkov-raid.gif?v=cropped" alt="Escape from Tarkov raid animation" width="1200">
+  <img src="./assets/tarkov-raid-cropped.gif" alt="Escape from Tarkov raid animation" width="1200">
 </p>
 
 <br>
