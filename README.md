@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://devlotfi.github.io/stack-icons/icons/kotlin.svg" alt="Kotlin" title="Kotlin" height="64">
   <img src="https://devlotfi.github.io/stack-icons/icons/jetpack-compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="64">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android" height="64">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio" height="64">
   <img src="https://devlotfi.github.io/stack-icons/icons/git.svg" alt="Git" title="Git" height="64">
 </p>
 
