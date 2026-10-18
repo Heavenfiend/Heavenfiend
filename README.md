@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario pixel-art animation" width="1200">
-</p>
-
-<h3 align="center">Android Developer · Kotlin &amp; Jetpack Compose</h3>
-
-<p align="center">
-  Building Android apps and exploring algorithms,<br>
-  data structures, and computer graphics.
-</p>
+<h1 align="center">Android Developer</h1>
 
 <p align="center">
   <a href="https://t.me/Heavenfiend" title="Telegram: @Heavenfiend">
-    <img src="./assets/badges/telegram.svg" alt="Contact Heavenfiend on Telegram" width="110" height="30">
+    <img src="./assets/badges/telegram.svg" alt="Contact Heavenfiend on Telegram" width="165" height="45">
   </a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario pixel-art animation" width="1200">
 </p>
 
 <br>
