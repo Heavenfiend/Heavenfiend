@@ -40,3 +40,22 @@
   <img src="./assets/badges/vulkan.svg" alt="Vulkan" title="Vulkan" width="89" height="26">
   <img src="./assets/badges/data-structures.svg" alt="Data Structures" title="Data Structures" width="145" height="26">
 </p>
+
+<br>
+
+---
+
+### Mario
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario pixel-art animation" width="600">
+</p>
+
+---
+
+### 3D Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Heavenfiend's GitHub contributions in 3D" width="1000">
+</picture>
