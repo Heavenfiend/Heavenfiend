@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/c89RIyQbtkgAAAAd/tarkov-death-tarkov.gif" alt="Escape from Tarkov death animation" width="1200">
+  <img src="./assets/tarkov-death.gif" alt="Escape from Tarkov death animation" width="1200">
 </p>
 
 <br>
