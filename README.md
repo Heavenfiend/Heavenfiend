@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="./assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin" width="80" height="80">
-  <img src="./assets/icons/compose.svg" alt="Jetpack Compose" title="Jetpack Compose" width="80" height="80">
-  <img src="./assets/icons/studio.svg" alt="Android Studio" title="Android Studio" width="80" height="80">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gradle-dark.svg">
-    <img src="./assets/icons/gradle.svg" alt="Gradle" title="Gradle" width="80" height="80">
-  </picture>
-  <img src="./assets/icons/git.svg" alt="Git" title="Git" width="80" height="80">
-  <img src="./assets/icons/cpp.svg" alt="C++" title="C++" width="80" height="80">
+  <img src="https://devlotfi.github.io/stack-icons/icons/kotlin.svg" alt="Kotlin" title="Kotlin" height="64">
+  <img src="https://devlotfi.github.io/stack-icons/icons/jetpack-compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="64">
+  <img src="https://devlotfi.github.io/stack-icons/icons/c.svg" alt="C" title="C" height="64">
+  <img src="https://devlotfi.github.io/stack-icons/icons/cpp.svg" alt="C++" title="C++" height="64">
+  <img src="https://devlotfi.github.io/stack-icons/icons/cs.svg" alt="C#" title="C#" height="64">
+  <img src="https://devlotfi.github.io/stack-icons/icons/git.svg" alt="Git" title="Git" height="64">
 </p>
 
 <picture>
